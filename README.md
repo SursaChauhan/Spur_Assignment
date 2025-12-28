@@ -318,9 +318,6 @@ ai-chat-agent/
 3. Add environment variables:
    - `DATABASE_URL`
    - `GEMINI_API_KEY`
-4. Deploy
-
-**Deployed URL:** [Add your deployed URL here]
 
 ---
 
@@ -385,6 +382,3 @@ This project was created as a take-home assignment for Spur.
 ## 🙏 Acknowledgments
 
 Built for Spur's founding engineer position take-home assignment.
-
-**Time spent:** ~10 hours
-**Assignment deadline:** December 31, 2025
